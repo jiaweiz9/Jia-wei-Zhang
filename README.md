@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jiawei-Zhang
+- 👋 Hi, I’m @Jia-wei-Zhang
 - 👀 I’m interested in **Full-stack Development/Machine Learning/Game Development...**
 - 🌱 I’m currently learning Computer Science in Wuhan University and applying for graduate school in US
 - 💞️ I’m looking to collaborate on influential open-source applications
