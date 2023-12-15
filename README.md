@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jia-wei-Zhang
-- 👀 I’m interested in **Software Development/Machine Learning/Robotics...**
+- 👀 I’m interested in **Robotics/Machine Learning/...**
 - 🌱 I’m currently learning Electrical and Computer Engineering in Univeristy of Illinois at Urbana and Champion for graduate study
 - 💞️ I'm graduated from Wuhan Univeristy majoring Computer Science for my bachelor degree
 - 📫 How to reach me: jiaweizhang927@gmail.com or jiaweiz9@illinois.edu
